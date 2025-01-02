@@ -23,9 +23,9 @@ My name is Durgesh Katyayan and I'm a software developer/DevOps engineer. I'm fr
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/durgeshkuyaa/?ref=header_profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/durgeshkuyaa/?ref=header_profile" height="30" width="40" /></a>
 </p>
 
-<div align="center">
+<h1 align="center">
   # Technologies & Tools 🛠️
-</div>
+</h1>
 
 ### Frontend Development
 <p align="left">
