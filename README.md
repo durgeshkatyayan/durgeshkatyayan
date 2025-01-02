@@ -1,13 +1,10 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo22030
-Fork on GitHub7030
+
 <h1 align="center">Hi 👋, I'm Durgesh Katyayan</h1>
 <h3 align="center">A passionate Software Development and Android Development from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgeshkatyayan&label=Profile%20views&color=0e75b6&style=flat" alt="durgeshkatyayan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=durgeshkatyayan" alt="durgeshkatyayan" /></a> </p>
+<p align="left"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=durgeshkatyayan" alt="durgeshkatyayan" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://durgeshkatyayan.netlify.app/](https://durgeshkatyayan.netlify.app/)
 
