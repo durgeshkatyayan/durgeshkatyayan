@@ -6,7 +6,7 @@
 [![Header](https://raw.githubusercontent.com/durgeshkatyayan/durgeshkatyayan/master/readme_header.png "Header")](https://durgeshkatyayan.dev/)]
 
 
-My name is Durgesh Katyayab and I'm a software developer/DevOps engineer. I'm from India, living in Kanpur Nagar ..
+My name is Durgesh Katyayan and I'm a software developer/DevOps engineer. I'm from India, living in Kanpur Nagar ..
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
