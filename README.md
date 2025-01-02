@@ -1,22 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Durgesh Katyayan</h1>
 <h3 align="center">A passionate Software Development and Android Development from India</h3>
-<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
-
-[![Header](https://raw.githubusercontent.com/durgeshkatyayan/durgeshkatyayan/master/readme_header.png "Header")](https://durgeshkatyayan.dev/)]
-
-
 My name is Durgesh Katyayan and I'm a software developer/DevOps engineer. I'm from India, living in Kanpur Nagar ..
-
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgeshkatyayan&label=Profile%20views&color=0e75b6&style=flat" alt="durgeshkatyayan" /> </p>
 
@@ -72,11 +57,7 @@ My name is Durgesh Katyayan and I'm a software developer/DevOps engineer. I'm fr
 ### 🌟 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=YOURUSERNAME&color=brightgreen&style=for-the-badge)
   
-<div align="center">
-
-# Technologies & Tools 🛠️
-
-</div>
+<div align="center"># Technologies & Tools 🛠️</div>
 
 ### Frontend Development
 <p align="left">
