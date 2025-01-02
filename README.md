@@ -86,7 +86,6 @@ const Mr = {
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
 <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white" alt="vuetify"/>
 <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="materialize"/>
-<img src="https://img.shields.io/badge/-UnoCSS-%23333333?style=ui&logoColor=white" alt="materialize"/>
 </p>
 
 ### Backend Development
