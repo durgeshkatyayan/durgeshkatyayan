@@ -4,7 +4,7 @@
 <div align="center">
 <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
 </div>
-<h1 align="center">Hi 👋, I'm Durgesh Katyayan</h1>
+# 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 Durgesh Katyayan
 <h3 align="center">A passionate Software Development and Android Development from India</h3>
 <!--  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> -->
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
@@ -66,7 +66,7 @@ const Mr = {
 </p>
 
 <h1 align="center">
-  # Technologies & Tools 🛠️
+ ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 </h1>
 
 ### Frontend Development
