@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center">
 </div>
-
 <div align="center">
 <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
 </div>
@@ -12,7 +11,7 @@
 <p><em>Software Enginner at <a href="(https://csjmu.ac.in/)">University of CSJMU</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.umcastudio.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-<div align="center">
+<div>
   
 ## 🌟 Connect with Me
   
