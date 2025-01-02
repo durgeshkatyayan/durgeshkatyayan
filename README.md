@@ -1,4 +1,10 @@
+<div align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center">
+</div>
 
+<div align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
+</div>
 <h1 align="center">Hi 👋, I'm Durgesh Katyayan</h1>
 <h3 align="center">A passionate Software Development and Android Development from India</h3>
 <!--  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> -->
