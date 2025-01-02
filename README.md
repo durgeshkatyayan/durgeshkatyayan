@@ -1,14 +1,16 @@
 
 <h1 align="center">Hi 👋, I'm Durgesh Katyayan</h1>
-<h5 align="center">A passionate Software Development and Android Development from India</h3>
+<h3 align="center">A passionate Software Development and Android Development from India</h3>
 <!--  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> -->
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Software Enginner at <a href="(https://csjmu.ac.in/)">University of CSJMU</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Instragram: Durgesh Katyayan](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://www.instagram.com/kaniskkatyayan.1/)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![Instagram: durgeshkatyayan](https://img.shields.io/badge/-durgeshkatyayan-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/kaniskkatyayan.1/)
+
+[![Linkedin: durgeshkatyayan](https://img.shields.io/badge/-durgeshkatyayan-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/durgesh-katyayan-653a572b1/)
+
+[![GitHub durgeshkatyayan](https://img.shields.io/github/followers/durgeshkatyayan?label=follow&style=social)](https://github.com/durgeshkatyayan)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
