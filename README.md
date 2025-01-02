@@ -1,6 +1,7 @@
 <div align="center">
 <img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center">
 </div>
+[![Umca Education](https://svg.bookmark.style/api?url=https://umcaeducation.com&mode=light&style=horizontal)](https://umcaeducation.com)
 <div align="center">
 <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
 </div>
