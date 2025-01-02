@@ -6,11 +6,16 @@
 <p><em>Software Enginner at <a href="(https://csjmu.ac.in/)">University of CSJMU</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.umcastudio.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Instagram: durgeshkatyayan](https://img.shields.io/badge/-durgeshkatyayan-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/kaniskkatyayan.1/)
+<div align="center">
+  
+## 🌟 Connect with Me
+  
+[![Instagram Badge](https://img.shields.io/badge/-durgeshkatyayan-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/kaniskkatyayan.1/)
+[![LinkedIn Badge](https://img.shields.io/badge/-durgeshkatyayan-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/durgesh-katyayan-653a572b1/)
+[![GitHub Followers](https://img.shields.io/github/followers/durgeshkatyayan?label=follow&style=social)](https://github.com/durgeshkatyayan)
 
-[![Linkedin: durgeshkatyayan](https://img.shields.io/badge/-durgeshkatyayan-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/durgesh-katyayan-653a572b1/)
+</div>
 
-[![GitHub durgeshkatyayan](https://img.shields.io/github/followers/durgeshkatyayan?label=follow&style=social)](https://github.com/durgeshkatyayan)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
