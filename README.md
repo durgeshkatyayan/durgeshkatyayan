@@ -130,15 +130,7 @@ const Mr = {
 
 ---
 
-### 📊 GitHub Statistics
-
-<p align="left">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=durgeshkatyayan&show_icons=true&locale=en&layout=compact" alt="durgeshkatyayan" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=durgeshkatyayan&show_icons=true&locale=en" alt="durgeshkatyayan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=durgeshkatyayan&" alt="durgeshkatyayan" /></p>
+<div align="center"> <!-- Top Languages --> <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=durgeshkatyayan&show_icons=true&locale=en&layout=compact" alt="durgeshkatyayan's top languages" /> <!-- Overall GitHub Stats --> <img height="150" src="https://github-readme-stats.vercel.app/api?username=durgeshkatyayan&show_icons=true&locale=en" alt="durgeshkatyayan's GitHub stats" /> <!-- GitHub Streak --> <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=durgeshkatyayan" alt="durgeshkatyayan's GitHub streak" /> </div>
 
 ---
 
