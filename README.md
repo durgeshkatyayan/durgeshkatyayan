@@ -72,7 +72,11 @@ My name is Durgesh Katyayan and I'm a software developer/DevOps engineer. I'm fr
 ### 🌟 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=YOURUSERNAME&color=brightgreen&style=for-the-badge)
   
- # Technologies & Tools 🛠️
+<div align="center">
+
+# Technologies & Tools 🛠️
+
+</div>
 
 ### Frontend Development
 <p align="left">
