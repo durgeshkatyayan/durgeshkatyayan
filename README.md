@@ -4,7 +4,7 @@
 <div align="center">
 <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
 </div>
-# 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 Durgesh Katyayan
+<b align="center">Hello, I'm Durgesh Katyayan</b>
 <h3 align="center">A passionate Software Development and Android Development from India</h3>
 <!--  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> -->
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
