@@ -23,40 +23,6 @@ My name is Durgesh Katyayan and I'm a software developer/DevOps engineer. I'm fr
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/durgeshkuyaa/?ref=header_profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/durgeshkuyaa/?ref=header_profile" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-# Tech Stack 🚀
-
-### Languages and Frameworks
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### Tools & Technologies
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Canvas.js](https://img.shields.io/badge/Canvas.js-46A2F1?style=for-the-badge&logo=canvas&logoColor=white)
-
-### GitHub Stats 📊
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)
-
-### Most Used Languages 💻
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical)
-
-### Connect With Me 🤝
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=About.me&logoColor=white)](YOUR_PORTFOLIO_URL)
-
----
-
-### 🌟 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=YOURUSERNAME&color=brightgreen&style=for-the-badge)
-  
 <div align="center"># Technologies & Tools 🛠️</div>
 
 ### Frontend Development
