@@ -26,7 +26,7 @@
 
 
 
-### <img align="center" alt="GIF" src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" />
+### 
   A little more about me...  
 
 ```javascript
