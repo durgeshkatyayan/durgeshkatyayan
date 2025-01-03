@@ -19,7 +19,7 @@
 
 <div>
   
-## 🌟 Connect with Me
+🌟 Connect with Me
   
 [![Instagram Badge](https://img.shields.io/badge/-durgeshkatyayan-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/kaniskkatyayan.1/)
 [![LinkedIn Badge](https://img.shields.io/badge/-durgeshkatyayan-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/durgesh-katyayan-653a572b1/)
