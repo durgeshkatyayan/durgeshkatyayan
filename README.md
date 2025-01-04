@@ -210,9 +210,7 @@ const Mr = {
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome%20To%20My%20Profile&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=FFFFFF" width="100%"/>
   
   <!-- Your Typing Text -->
-  <div style="margin: 20px 0;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&repeat=false&width=435&lines=Full+Stack+Developer;AI%20|%20ML%20Enthusiast;Always+learning+new+things" alt="Typing SVG" />
-  </div>
+ 
 
   <!-- Skill Badges with Gradient Borders -->
   <div style="display: inline-block; background: linear-gradient(45deg, #ff6b6b, #4ecdc4); padding: 3px; border-radius: 10px; margin: 5px;">
