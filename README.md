@@ -11,7 +11,7 @@
 <h3 align="center">A passionate Software Development and Android Development from India</h3>
 <!--  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> -->
 <!-- <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> -->
-<img align="right" alt="GIF" src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" width="320" style="border-radius:20px;" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" width="320"  style="border-radius: 20px;" />
 <p><em>Software Enginner at <a href="(https://csjmu.ac.in/)">University of CSJMU</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.umcastudio.com">ThoughtWorks</a>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
   
@@ -134,43 +134,7 @@ const Mr = {
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android"/>
 </p>
 
----
 
-
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&repeat=false&width=435&lines=Full+Stack+Developer;AI%20|%20ML%20Enthusiast;Always+learning+new+things" alt="Typing SVG" />
-</div>
-
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *" # Runs every 12 hours
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: actions/checkout@v2
-
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: durgeshkatyayan
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
----
 <!-- Overall GitHub Stats -->
 <div align="center">
   <h2>🌟 GitHub Stats 🌟</h2>
@@ -191,29 +155,6 @@ jobs:
        alt="GitHub Streak" 
        style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);" />
 </div>
-
-<!-- Additional Section: About Me -->
-<div align="center">
-  <h2>🚀 About Me 🚀</h2>
-  <p>
-    Passionate Full Stack Developer specializing in MERN and React Native. 
-    I enjoy building scalable applications and delivering elegant solutions. 
-    Let's collaborate and build something amazing! 🌟
-  </p>
-</div>
-
-<!-- Additional Styling for Visibility -->
-<style>
-  img {
-    transition: transform 0.3s ease-in-out;
-  }
-  img:hover {
-    transform: scale(1.05);
-  }
-</style>
-
-### 🔥 Recent Activity
-<!-- Replace with GitHub Activity Feed -->
 
 ### 📫 Connect With Me
 <p align="left">
