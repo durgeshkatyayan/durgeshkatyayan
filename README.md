@@ -168,6 +168,70 @@ const Mr = {
 
 
 
+<!-- Profile Header with Animated Border -->
+<div align="center">
+  <!-- Animated SVG Border -->
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
+  </div>
+
+  <!-- Profile Content in Colored Circle -->
+  <img width="100%" height="50" src="https://raw.githubusercontent.com/durgeshkatyayan/durgeshkatyayan/output/divider.gif"/>
+  <div style="background: linear-gradient(to right, #ff6b6b, #4ecdc4); padding:3px; border-radius:50%">
+    <div style="background: #0d1117; padding:50px; border-radius:50%">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&repeat=false&width=435&lines=Full+Stack+Developer;AI%20|%20ML%20Enthusiast;Always+learning+new+things" alt="Typing SVG" />
+    </div>
+  </div>
+  <img width="100%" height="50" src="https://raw.githubusercontent.com/durgeshkatyayan/durgeshkatyayan/output/divider.gif"/>
+</div>
+
+<!-- Animated Border SVG -->
+<svg viewBox="0 0 800 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ff6b6b;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#4ecdc4;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ff6b6b;stop-opacity:1" />
+      <animate attributeName="x1" from="0%" to="100%" dur="3s" repeatCount="indefinite" />
+      <animate attributeName="x2" from="100%" to="200%" dur="3s" repeatCount="indefinite" />
+    </linearGradient>
+  </defs>
+  <path d="M10,50 Q200,10 400,50 T790,50" fill="none" stroke="url(#gradient)" stroke-width="4">
+    <animate attributeName="d" 
+      dur="5s" 
+      repeatCount="indefinite"
+      values="M10,50 Q200,10 400,50 T790,50;
+              M10,50 Q200,90 400,50 T790,50;
+              M10,50 Q200,10 400,50 T790,50"/>
+  </path>
+</svg>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome%20To%20My%20Profile&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=FFFFFF" width="100%"/>
+  
+  <!-- Your Typing Text -->
+  <div style="margin: 20px 0;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&repeat=false&width=435&lines=Full+Stack+Developer;AI%20|%20ML%20Enthusiast;Always+learning+new+things" alt="Typing SVG" />
+  </div>
+
+  <!-- Skill Badges with Gradient Borders -->
+  <div style="display: inline-block; background: linear-gradient(45deg, #ff6b6b, #4ecdc4); padding: 3px; border-radius: 10px; margin: 5px;">
+    <div style="background: #0d1117; padding: 10px; border-radius: 7px;">
+      <img src="https://img.shields.io/badge/Full_Stack-Developer-blue?style=for-the-badge&logo=react" alt="Full Stack"/>
+    </div>
+  </div>
+  
+  <div style="display: inline-block; background: linear-gradient(45deg, #4ecdc4, #ff6b6b); padding: 3px; border-radius: 10px; margin: 5px;">
+    <div style="background: #0d1117; padding: 10px; border-radius: 7px;">
+      <img src="https://img.shields.io/badge/App-Developer-green?style=for-the-badge&logo=android" alt="App Dev"/>
+    </div>
+  </div>
+</div>
+
+<!-- Animated Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</div>
 
   
 
