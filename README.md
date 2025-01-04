@@ -207,7 +207,7 @@ const Mr = {
 </svg>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome%20To%20My%20Profile&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=FFFFFF" width="100%"/>
+  
   
   <!-- Your Typing Text -->
  
