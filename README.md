@@ -40,8 +40,8 @@ const Mr = {
   architecture: ["Project Management", "event-driven", "UI Design"],
   techCommunities: {
                         Developer: "Durgesh Katyayan",
-                        analyzer: "Durgesh",
-                        mentor: "Swapnil Soft"
+                        Email: "durgeshkatyayan@gmail.com",
+                        Company: "Swapnil Software Pvt Ltd"
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
