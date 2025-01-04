@@ -161,11 +161,58 @@ const Mr = {
 <!-- Add your social media links here -->
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=durgeshkatyayan&color=brightgreen&style=for-the-badge)
-<h3 align="center">
-<a href="https://durgeshkatyayan.netlify.app">Visit my personal homepage
-<img src="https://github.com/fnky/fnky/raw/fnky/img/website.gif" alt="Visit homepage" align="center">
-</a>
-</h3>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I'm Durgesh!
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&repeat=false&width=435&lines=Full+Stack+Developer;AI%20|%20ML%20Enthusiast;Always+learning+new+things" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=durgeshkatyayan&label=Profile%20views&color=36BCF7&style=flat-square" alt="Profile Views" /> 
+  <img src="https://img.shields.io/github/followers/durgeshkatyayan?label=Followers&style=flat-square&color=36BCF7" alt="Followers" />
+</div>
+
+## 👨‍💻 About Me
+
+I'm a passionate Full Stack Developer and App Developer with expertise in building scalable web and mobile applications. I love exploring new technologies and leveraging them to solve real-world problems.
+
+- 🔭 Currently working on **innovative full-stack projects**
+- 🌱 Exploring **Advanced AI & ML Technologies**
+- 💡 Open to collaborating on **interesting projects**
+- 💬 Ask me about **Web Development, App Development, AI/ML**
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  
+### Frontend & Mobile
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### AI & ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+</div>
+
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/durgeshkatyayan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/durgeshkatyayan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
+
+---
 
 
