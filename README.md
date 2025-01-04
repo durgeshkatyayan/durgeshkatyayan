@@ -181,7 +181,7 @@ const Mr = {
   <img width="100%" height="50" src="https://raw.githubusercontent.com/durgeshkatyayan/durgeshkatyayan/output/divider.gif"/>
   <div style="background: linear-gradient(to right, #ff6b6b, #4ecdc4); padding:3px; border-radius:50%">
     <div style="background: #0d1117; padding:50px; border-radius:50%">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&repeat=false&width=435&lines=Full+Stack+Developer;AI%20|%20ML%20Enthusiast;Always+learning+new+things" alt="Typing SVG" />
+     
     </div>
   </div>
   <img width="100%" height="50" src="https://raw.githubusercontent.com/durgeshkatyayan/durgeshkatyayan/output/divider.gif"/>
