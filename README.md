@@ -140,8 +140,8 @@ const Mr = {
 <!-- Overall GitHub Stats -->
 <div style="display:flex; gap:5px;">
 <img src="https://github-readme-stats.vercel.app/api?username=durgeshkatyayan&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5); width:380px;" />
-</div>
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;"> <!-- Top Languages -->
+
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=durgeshkatyayan&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);" />
 </div>
 <!-- GitHub Streak -->
