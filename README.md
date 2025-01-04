@@ -137,19 +137,43 @@ const Mr = {
 ---
 
 
-<!-- Overall GitHub Stats -->
-<div style="display: flex; gap: 30px; justify-content: center; align-items: center; margin: auto; text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=durgeshkatyayan&show_icons=true&locale=en&theme=radical" 
-       alt="GitHub Stats" 
-       style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5); width: 400px;" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=durgeshkatyayan&show_icons=true&locale=en&layout=compact&theme=radical" 
-       alt="Top Languages" 
-       style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);" />
-</div>
+    <div className="w-full max-w-6xl mx-auto p-6 bg-gray-900 rounded-lg space-y-8">
+      {/* Stats Section */}
+      <div className="flex flex-col md:flex-row gap-6 justify-center items-center">
+        {/* Overall Stats Card */}
+        <div className="w-full md:w-1/2 bg-gray-800 rounded-xl p-4 shadow-lg transform hover:scale-105 transition-transform duration-300">
+          <img 
+            src="https://github-readme-stats.vercel.app/api?username=durgeshkatyayan&show_icons=true&locale=en&theme=radical" 
+            alt="GitHub Stats"
+            className="w-full rounded-lg"
+          />
+        </div>
+        
+        {/* Top Languages Card */}
+        <div className="w-full md:w-1/2 bg-gray-800 rounded-xl p-4 shadow-lg transform hover:scale-105 transition-transform duration-300">
+          <img 
+            src="https://github-readme-stats.vercel.app/api/top-langs?username=durgeshkatyayan&show_icons=true&locale=en&layout=compact&theme=radical"
+            alt="Top Languages"
+            className="w-full rounded-lg"
+          />
+        </div>
+      </div>
 
-<!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=durgeshkatyayan&theme=radical" alt="GitHub Streak" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);" />
+      {/* Streak Stats Section */}
+      <div className="w-full bg-gray-800 rounded-xl p-4 shadow-lg transform hover:scale-105 transition-transform duration-300">
+        <img 
+          src="https://github-readme-streak-stats.herokuapp.com/?user=durgeshkatyayan&theme=radical"
+          alt="GitHub Streak"
+          className="w-full rounded-lg"
+        />
+      </div>
+
+      {/* Decorative Elements */}
+      <div className="absolute top-0 left-0 w-full h-full overflow-hidden pointer-events-none opacity-20">
+        <div className="absolute top-0 right-0 w-64 h-64 bg-purple-600 rounded-full filter blur-3xl"></div>
+        <div className="absolute bottom-0 left-0 w-64 h-64 bg-pink-600 rounded-full filter blur-3xl"></div>
+      </div>
+    </div>
 
 
 ---
