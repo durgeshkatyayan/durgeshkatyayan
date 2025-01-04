@@ -143,87 +143,22 @@ const Mr = {
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&repeat=false&width=435&lines=Full+Stack+Developer;AI%20|%20ML%20Enthusiast;Always+learning+new+things" alt="Typing SVG" />
 </div>
 
-## 👨‍💻 About Me
-
-- 🔭 I'm currently working on **[Current Project]**
-- 🌱 I'm currently learning **[Technology/Skill]**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **[Your Expertise]**
-- 📫 How to reach me: **[Your Email]**
-- ⚡ Fun fact: **[Interesting Fact About You]**
-
 ## 🚀 Skills & Technologies
 
 <div align="center">
   
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=radical" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YourUsername]&theme=radical" alt="GitHub Streak" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=[YourUsername]&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</div>
-
-## 🌐 Connect with Me
-
-<div align="center">
-  <a href="https://linkedin.com/in/[YourProfile]">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/[YourProfile]">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://[YourWebsite].com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
 
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[YourUsername]&theme=tokyo-night" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[durgeshkatyayan]&theme=tokyo-night" alt="Contribution Graph" />
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YourUsername]&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
-
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://github.com/[YourUsername]/[YourUsername]/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
 
 ---
 
