@@ -138,11 +138,10 @@ const Mr = {
 
 
 <!-- Overall GitHub Stats -->
-<div style="display:flex; gap:20px;">
+<div style="display:flex; gap:20px;justify-content:center;">
 <img src="https://github-readme-stats.vercel.app/api?username=durgeshkatyayan&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5); width:420px;" />
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=durgeshkatyayan&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=durgeshkatyayan&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5); width:420px;" />
 </div>
 <!-- GitHub Streak -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=durgeshkatyayan&theme=radical" alt="GitHub Streak" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);" />
