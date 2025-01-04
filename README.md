@@ -171,6 +171,46 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 ---
+<!-- Overall GitHub Stats -->
+<div align="center">
+  <h2>🌟 GitHub Stats 🌟</h2>
+  <div style="display: flex; gap: 30px; justify-content: center; align-items: center; margin: auto;">
+    <img src="https://github-readme-stats.vercel.app/api?username=durgeshkatyayan&show_icons=true&locale=en&theme=radical" 
+         alt="GitHub Stats" 
+         style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5); width: 400px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=durgeshkatyayan&show_icons=true&locale=en&layout=compact&theme=radical" 
+         alt="Top Languages" 
+         style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);" />
+  </div>
+</div>
+
+<!-- GitHub Streak -->
+<div align="center">
+  <h2>🔥 GitHub Streak 🔥</h2>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=durgeshkatyayan&theme=radical" 
+       alt="GitHub Streak" 
+       style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);" />
+</div>
+
+<!-- Additional Section: About Me -->
+<div align="center">
+  <h2>🚀 About Me 🚀</h2>
+  <p>
+    Passionate Full Stack Developer specializing in MERN and React Native. 
+    I enjoy building scalable applications and delivering elegant solutions. 
+    Let's collaborate and build something amazing! 🌟
+  </p>
+</div>
+
+<!-- Additional Styling for Visibility -->
+<style>
+  img {
+    transition: transform 0.3s ease-in-out;
+  }
+  img:hover {
+    transform: scale(1.05);
+  }
+</style>
 
 ### 🔥 Recent Activity
 <!-- Replace with GitHub Activity Feed -->
