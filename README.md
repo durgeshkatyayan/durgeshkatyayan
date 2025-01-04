@@ -1,7 +1,8 @@
-<div align="center">
-<!-- <img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center"> -->
-<!-- </div> -->
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome%20To%20My%20Profile&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=FFFFFF" width="100%"/>
+  <div align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center">
+</div>
 <div align="center">
 <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
 </div>
@@ -207,25 +208,7 @@ const Mr = {
   </path>
 </svg>
 
-<div align="center">
-  
-  
-  <!-- Your Typing Text -->
- 
 
-  <!-- Skill Badges with Gradient Borders -->
-  <div style="display: inline-block; background: linear-gradient(45deg, #ff6b6b, #4ecdc4); padding: 3px; border-radius: 10px; margin: 5px;">
-    <div style="background: #0d1117; padding: 10px; border-radius: 7px;">
-      <img src="https://img.shields.io/badge/Full_Stack-Developer-blue?style=for-the-badge&logo=react" alt="Full Stack"/>
-    </div>
-  </div>
-  
-  <div style="display: inline-block; background: linear-gradient(45deg, #4ecdc4, #ff6b6b); padding: 3px; border-radius: 10px; margin: 5px;">
-    <div style="background: #0d1117; padding: 10px; border-radius: 7px;">
-      <img src="https://img.shields.io/badge/App-Developer-green?style=for-the-badge&logo=android" alt="App Dev"/>
-    </div>
-  </div>
-</div>
 
 <!-- Animated Footer -->
 <div align="center">
