@@ -182,7 +182,7 @@ const Mr = {
   <div style="background: linear-gradient(to right, #ff6b6b, #4ecdc4); padding:3px; border-radius:50%">
     <div style="background: #0d1117; padding:50px; border-radius:50%">
      
-    </div>
+
   </div>
   <img width="100%" height="50" src="https://raw.githubusercontent.com/durgeshkatyayan/durgeshkatyayan/output/divider.gif"/>
 </div>
