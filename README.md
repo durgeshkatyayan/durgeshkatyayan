@@ -10,7 +10,7 @@
 <h1 align="center">
   Hello, I'm Durgesh Katyayan
   <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&repeat=false&width=435&lines=Full+Stack+Developer;App+Developer;%20|%28Database+Management);2+ years +of+Experience" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&repeat=false&width=435&lines=Full+Stack+Developer;App+Developer;%20|%28Database+Management);2+++ years +of+Experience" alt="Typing SVG" />
 </div>
 </h1>
 <h3 align="center">A passionate Software Development and Android Development from India</h3>
