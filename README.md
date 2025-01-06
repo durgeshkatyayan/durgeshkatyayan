@@ -1,6 +1,6 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome%20To%20My%20Profile&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=FFFFFF" width="100%"/>
-  <div align="center">
+  
 <!-- <img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center"> -->
 <!-- </div> -->
 <div align="center">
@@ -13,7 +13,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&repeat=false&width=435&lines=Full+Stack+Developer;App+Developer;%20|%28Database+Management);Always+learning+new+things" alt="Typing SVG" />
 </div>
 </h1>
-<h3 align="">A passionate Software Development and Android Development from India</h3>
+<h3 align="center">A passionate Software Development and Android Development from India</h3>
 <!--  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> -->
 <!-- <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> -->
 <img align="right" alt="GIF" src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" width="320"  style="border-radius: 20px;" />
